@@ -1,7 +1,7 @@
 {
   "name": "bass_fishing",
   "version": "1.0.0",
-  "description": "",
+  "description": "All things bass fishing.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtheyer/Bass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtheyer/Bass/issues"
+  },
+  "homepage": "https://github.com/jtheyer/Bass#readme"
 }
